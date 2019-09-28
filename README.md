@@ -24,7 +24,7 @@
 ## Installation
 
 ```shell
-$ composer require "hunjutang/wechat:*" -vvv
+$ composer require "hunjutang/overtruewechat:*" -vvv
 ```
 
 ## Usage
